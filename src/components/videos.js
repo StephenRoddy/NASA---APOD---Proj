@@ -11,7 +11,7 @@ return (
   {
       <div class="card bg-light mx-3">
         <div class="card-body">
-          <h5 classs="card-title">{media.title}</h5>
+          <h5 classs="card-title">Today's Video: {media.title}</h5>
           <h6 class="card-subtitle mb-2 text-muted">{media.date}</h6>
           <div class="embed-responsive embed-responsive-16by9 mx-auto d-block">
             <iframe class="embed-responsive-item" src={media.url} controls/>
