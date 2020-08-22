@@ -37,7 +37,7 @@ class App extends Component {
       conRend = <Pictures media={this.state.media} />
     }
 
-    return (  // Return divides the page into columns and there is some conditional rendering to handle video. Will offload this to another component
+    return (  // Return divides the page into columns and there is some conditional rendering to handle video
       <div>
       {<Navbar />}
       <div class="row">

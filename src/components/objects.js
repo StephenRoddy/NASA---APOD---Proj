@@ -1,7 +1,8 @@
 // src/components/objects.js
 import React from 'react'
 
-
+// objects is the parameter passed to a fubction called Objects (defined by const).
+// What the function does is everything after the fat arrow
 
 const Objects = ({ objects }) => {
 //  console.log({objects.near_earth_objects[1]});

@@ -6,7 +6,7 @@ class App extends Component {
     objects:[]
   }
 
-// I'm not sure that arrow functions are actually clearer...
+// There is a bit to unpakc in the user of arrow function expressions etc in the componentDidMount method
 
   componentDidMount(){
     fetch('https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=UrXJyJZWfOwzULw07rfPFuiur4cEsYCmC7WaSkTZ')
