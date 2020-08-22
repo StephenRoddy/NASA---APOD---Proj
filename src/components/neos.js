@@ -2,11 +2,6 @@
 
 import React from 'react'
 
-
-
-// objects is the parameter passed to a fubction called Objects (defined by const).
-// What the function does is everything after the fat arrow
-
 const Objects = ({ contacts }) => {
 return (
 <div>
