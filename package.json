@@ -1,6 +1,6 @@
 {
   "name": "neo_search",
-  "homepage":"https://stephenroddy.github.io/NASA---APOD---Proj",
+  "homepage": "https://stephenroddy.github.io/NASA---APOD---Proj",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
