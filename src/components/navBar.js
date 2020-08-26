@@ -4,8 +4,8 @@ const Navbar = ( props ) => {
 
 return (
 
-  <nav class="navbar mb-4 navbar-light bg-light">
-    <a class="navbar-brand" href="#"><h3>NASA:_APoD</h3><h5 class ="text-wrap">Astronomy Picture of the Day</h5></a>
+  <nav class="navbar mb-4 navbar-light bg-light shadow ml-2 mr-2 mt-2">
+    <a class="navbar-brand" href="#"><h3>Astronomy Picture of the Day</h3><h5 class ="text-wrap">NASA</h5></a>
   </nav>
   )
 };
