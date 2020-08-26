@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-//import Objects from './components/objects.js';
 import Pictures from './components/pictures.js';
 import Videos from './components/videos.js';
 import Navbar from './components/navBar.js';
 import Infocard from'./components/infoCard.js';
+//import Objects from './components/objects.js';
 
 class App extends Component {
     constructor(props) {
