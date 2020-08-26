@@ -41,10 +41,10 @@ class App extends Component {
       <div>
       {<Navbar />}
       <div class="row">
-        <div class="col-sm ml-3 mr-3 mb-3">
+        <div class="col-sm ml-2 mr-2 mb-2">
           {conRend}
         </div>
-        <div class="col-sm ml-3 mr-3 mb-3">
+        <div class="col-sm ml-2 mr-2 mb-2">
           {<Infocard />}
         </div>
       </div>
